@@ -1,0 +1,77 @@
+background #2f1f8c #2b1b87 #251778 #21146b #2e1c97
+foreground #98a11f #939c19 #8e9620 #939c19
+head #777d29
+wall #235f7a
+food pink blue red green yellow gold
+text white
+#
+background #fffdd4 #f5f3c4 #fffdd9 #f7f5c1
+foreground #8c891f #807c18 #7a7710
+head #575407
+wall #545215 #4f4d16
+food pink blue red magenta black
+text black
+#
+background #1c1c1c #1a1a1a #181818 #151515 #1d1d1d
+foreground #f0e68c #ede58b #eae28a #ede58b
+head #c0c040
+wall #b5b29a
+food pink blue red green yellow gold
+text white
+#
+background #fcfbfa #fcf9f7 #f7f7f7 #f2efed
+foreground #706764 #696361 #636160 #57514f
+head #1c1c1b
+wall #403a38
+food pink blue red green yellow gold
+text black
+#
+background #7030a0 #663399 #5c2e8a #51257a #6f3aa5
+foreground #ffcc00 #ffbf00 #ffcc00
+head #ff9900
+wall #b3b3cc
+food pink blue red magenta black
+text white
+#
+background #800000 #800606 #850101 #6e0404 #690a0a
+foreground #d19411 #d19411 #db9d18
+head #ff9900
+wall #ff4800
+food pink #e3e309 #2e94b3 #b83d84 #3dafb8
+text white
+#
+background #112b0a #0c2405 #15300d #1b3613
+foreground #6bff40 #74f04f #75e354
+head #d1f7c6
+wall #1c6307 #248009 #218703
+food pink blue red magenta black
+text white
+#
+background #e3dc0e #f0e91a #f2ec2e #ede502
+foreground #4a4807 #57540d #615d02
+head #78742f
+wall #383501
+food black
+text black
+#
+background #013837 #05403f #0a4f4e #0b3b3a
+foreground #17c2be #26d4d0 #30bfbc
+head #7df0ed
+wall #44807e
+food #81a3a2 #66c4a3 #0abf7f #63ebba #7fc9af #7fc9c4
+text white
+#
+background #c40a3d #d40840
+foreground #c2a3ac #b08f98 #b0979e
+head #7df0ed
+wall #44807e
+food green yellow blue cyan
+text white
+#
+background #000000 #21010a
+foreground #ffffff
+head #f0e4e7
+wall #44807e
+food green yellow brown pink red blue cyan
+text white
+#
